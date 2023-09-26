@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class AutomationPracticeFormTest {
+public class HW3AutomationPracticeFormTest {
     @BeforeAll
     static void beforeAll() {
         Configuration.pageLoadStrategy = "eager";
